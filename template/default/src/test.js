@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import useMyHook from './'
 
-describe('ExampleComponent', () => {
+describe('useMyHook', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(useMyHook).toBeTruthy()
   })
 })

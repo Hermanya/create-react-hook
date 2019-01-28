@@ -15,14 +15,15 @@ npm install --save {{name}}
 ```tsx
 import * as React from 'react'
 
-import MyComponent from '{{name}}'
+import useMyHook from '{{name}}'
 
-class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
+const Example = () => {
+  const example = useMyHook()
+  return (
+    <div>
+      {example}
+    </div>
+  )
 }
 ```
 

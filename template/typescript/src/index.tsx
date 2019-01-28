@@ -1,23 +1,26 @@
-/**
- * @class ExampleComponent
- */
+import * as React from 'react';
 
-import * as React from 'react'
+// Example Hook
+// it makes use of useState and useEffect
 
-import styles from './styles.css'
+export const useMyHook = () => {
+  let [{
+    counter
+  }, setCounter] = React.useState<{
+    counter: number;
+  }>({
+    counter: 0
+  });
 
-export type Props = { text: string }
+  React.useEffect(() => {
+    let interval = window.setInterval(() => {
+      setCounter(counter + 1)
+    }, 1000)
+    return () => {
+      window.clearInterval(interval);
+    };
+  }, []);
 
-export default class ExampleComponent extends React.Component<Props> {
-  render() {
-    const {
-      text
-    } = this.props
-
-    return (
-      <div className={styles.test}>
-        Example Component: {text}
-      </div>
-    )
-  }
-}
+  return counter;
+};
+export default useMyHook;

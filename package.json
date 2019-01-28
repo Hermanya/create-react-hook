@@ -1,14 +1,14 @@
 {
-  "name": "create-react-library",
+  "name": "create-react-hook",
   "version": "2.6.7",
-  "description": "CLI for easily bootstrapping modern react libraries",
-  "repository": "transitive-bullshit/create-react-library",
-  "author": "Travis Fischer <travis@automagical.ai>",
+  "description": "CLI for easily bootstrapping react hooks",
+  "repository": "Hermanya/create-react-hook",
+  "author": "Herman Starikov <hermanstarikov@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "reveal": true,
   "bin": {
-    "create-react-library": "index.js"
+    "create-react-hook": "index.js"
   },
   "scripts": {
     "test": "ava -v && standard *.js lib/*.js"
@@ -19,12 +19,9 @@
   },
   "keywords": [
     "react",
-    "preact",
-    "library",
-    "module",
     "create-react-app",
     "cli",
-    "component",
+    "hook",
     "rollup",
     "babel",
     "publish"
