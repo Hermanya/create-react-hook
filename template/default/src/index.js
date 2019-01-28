@@ -12,7 +12,7 @@ export const useMyHook = () => {
 
   React.useEffect(() => {
     let interval = window.setInterval(() => {
-      setCounter(counter + 1)
+      setCounter({counter: counter + 1})
     }, 1000)
     return () => {
       window.clearInterval(interval);

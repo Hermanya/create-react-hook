@@ -46,7 +46,6 @@
     "@babel/plugin-syntax-import-meta": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@svgr/rollup": "^2.4.1",
     "babel-eslint": "^10.0.1",
     "cross-env": "^5.1.4",
     "eslint": "^5.0.1",

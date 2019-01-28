@@ -1,6 +1,7 @@
 # create-react-hook
 
 > CLI for creating reusable React hooks using Rollup and create-react-app.
+> Inspired by the amazing [create-react-library](https://github.com/transitive-bullshit/create-react-library)
 
 [![NPM](https://img.shields.io/npm/v/create-react-hook.svg)](https://www.npmjs.com/package/create-react-hook) [![Build Status](https://travis-ci.com/hermanya/create-react-hook.svg?branch=master)](https://travis-ci.com/hermanya/create-react-hook) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
