@@ -1,6 +1,6 @@
 {
   "name": "create-react-hook",
-  "version": "2.6.9",
+  "version": "2.6.10",
   "description": "CLI for easily bootstrapping react hooks",
   "repository": "Hermanya/create-react-hook",
   "author": "Herman Starikov <hermanstarikov@gmail.com>",
