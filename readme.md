@@ -5,6 +5,8 @@
 
 [![NPM](https://img.shields.io/npm/v/create-react-hook.svg)](https://www.npmjs.com/package/create-react-hook) [![Build Status](https://travis-ci.com/hermanya/create-react-hook.svg?branch=master)](https://travis-ci.com/hermanya/create-react-hook) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+[How and why I made this tool.](https://medium.com/@Hermanhasawish/how-to-create-a-reusable-react-hook-9e42e73b2f9a)
+
 ## Features
 
 - Easy-to-use CLI
@@ -59,8 +61,6 @@ npm start # runs create-react-app dev server
 ```
 
 Now, anytime you make a change to your library in `src/` or to the example app's `example/src`, `create-react-app` will live-reload your local dev server so you can iterate on your component in real-time.
-
-![](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
 
 
 #### Publishing to NPM
