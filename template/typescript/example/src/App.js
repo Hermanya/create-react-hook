@@ -1,6 +1,6 @@
 import React from 'react'
 
-import useMyHook from '{{name}}'
+import { useMyHook } from '{{name}}'
 
 const App = () => {
   const example = useMyHook()

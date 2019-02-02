@@ -15,7 +15,7 @@ npm install --save {{name}}
 ```tsx
 import * as React from 'react'
 
-import useMyHook from '{{name}}'
+import { useMyHook } from '{{name}}'
 
 const Example = () => {
   const example = useMyHook()

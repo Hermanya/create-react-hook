@@ -15,14 +15,13 @@ npm install --save {{name}}
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from '{{name}}'
+import { useMyHook } from '{{name}}'
 
-class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
+const Example = () => {
+  const example = useMyHook()
+  return (
+    <div>{example}</div>
+  )
 }
 ```
 

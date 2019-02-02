@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-const useMyHook = () => {
+export const useMyHook = () => {
   let [{
     counter
   }, setState] = React.useState({
@@ -19,4 +19,3 @@ const useMyHook = () => {
 
   return counter
 }
-export default useMyHook

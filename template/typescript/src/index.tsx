@@ -21,4 +21,3 @@ export const useMyHook = () => {
 
   return counter;
 };
-export default useMyHook;
