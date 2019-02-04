@@ -89,6 +89,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 
 - [use-typing-effect](https://github.com/hermanya/use-typing-effect) - React hook for "Human Typing" effect
 - [use-scroll-to-reveal](https://github.com/hermanya/use-scroll-to-reveal) - React hook for revealing content upon scroll
+- [use-interval](https://github.com/Hermanya/use-interval) - React hook for setting intervals [properly](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
