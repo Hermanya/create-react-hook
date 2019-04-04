@@ -92,6 +92,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-interval](https://github.com/Hermanya/use-interval) - React hook for setting intervals [properly](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [react-indicative-hooks](https://github.com/marceloadsj/react-indicative-hooks) - Hooks for [indicative](https://indicative.adonisjs.com/) validation library
 - [use-3d-effect](https://github.com/Hermanya/use-3d-effect) - Hook for the 3D tilt card effect
+- [react-rxjs-hook](https://github.com/jarlah/react-rxjs-hook) - a useStore hook to be used in conjunction with react-rxjs
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
