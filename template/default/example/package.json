@@ -8,7 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "{{#if yarn}}link:../node_modules/react{{else}}file:../node_modules/react{{/if}}",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.0",
+    "react-scripts": "^3.0.1",
     "{{name}}": "{{#if yarn}}link:..{{else}}file:..{{/if}}"
   },
   "scripts": {
