@@ -94,6 +94,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-3d-effect](https://github.com/Hermanya/use-3d-effect) - Hook for the 3D tilt card effect
 - [react-rxjs-hook](https://github.com/jarlah/react-rxjs-hook) - A useStore hook to be used in conjunction with react-rxjs
 - [use-pusher](https://github.com/mayteio/use-pusher) - Easy as hooks that integrate with the pusher-js library
+- [use-axios-hooks](https://github.com/zaingz/use-axios-hooks) - Axios hook
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
