@@ -87,6 +87,7 @@ This creates a production build of the example `create-react-app` that showcases
 
 Here are some example libraries that have been bootstrapped with `create-react-hook`.
 
+- [use-suspense-today](https://github.com/Hermanya/use-suspense-today) - Use React Suspense with any library
 - [use-typing-effect](https://github.com/hermanya/use-typing-effect) - React hook for "Human Typing" effect
 - [use-scroll-to-reveal](https://github.com/hermanya/use-scroll-to-reveal) - React hook for revealing content upon scroll
 - [use-interval](https://github.com/Hermanya/use-interval) - React hook for setting intervals [properly](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
