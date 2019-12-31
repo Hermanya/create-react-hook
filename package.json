@@ -11,7 +11,7 @@
     "create-react-hook": "index.js"
   },
   "scripts": {
-    "test": "ava -v && standard *.js lib/*.js"
+    "test": "ava -v lib/**/*.test.js && standard *.js lib/*.js"
   },
   "engines": {
     "node": ">=8",

@@ -20,4 +20,5 @@ yarn-error.log*
 
 # temp directories created during testing
 my-test-library
+my-test-typescript-library
 nala
