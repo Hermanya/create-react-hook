@@ -97,6 +97,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-pusher](https://github.com/mayteio/use-pusher) - Easy as hooks that integrate with the pusher-js library
 - [use-axios-hooks](https://github.com/zaingz/use-axios-hooks) - Axios hook
 - [react-shortcuts-hook](https://github.com/macfire10/react-shortcuts-hook) - Keyboards shortcuts
+- [use-auto-progress](https://github.com/ZengLawrence/use-auto-progress) - Hook based on [best practices for animated progress indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
