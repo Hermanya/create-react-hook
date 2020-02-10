@@ -98,6 +98,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-axios-hooks](https://github.com/zaingz/use-axios-hooks) - Axios hook
 - [react-shortcuts-hook](https://github.com/macfire10/react-shortcuts-hook) - Keyboards shortcuts
 - [use-auto-progress](https://github.com/ZengLawrence/use-auto-progress) - Hook based on [best practices for animated progress indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
+- [use-marked-hook](https://github.com/this-fifo/use-marked-hook) - Marked.js wrapper
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
