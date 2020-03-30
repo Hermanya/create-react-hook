@@ -100,6 +100,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-auto-progress](https://github.com/ZengLawrence/use-auto-progress) - Hook based on [best practices for animated progress indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/)
 - [use-marked-hook](https://github.com/this-fifo/use-marked-hook) - Marked.js wrapper
 - [use-leet](https://github.com/taystack/use-leet) - turn your given text value into 1337 SP34K
+- [use-debounce-input](https://github.com/GuySerfaty/use-debounce-input) - debounce inputs
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
