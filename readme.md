@@ -102,6 +102,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-leet](https://github.com/taystack/use-leet) - turn your given text value into 1337 SP34K
 - [use-debounce-input](https://github.com/GuySerfaty/use-debounce-input) - debounce inputs
 - [use-media-set](https://github.com/cvkline/use-media-set) - make components responsive to media query changes
+- [use-as-bind](https://github.com/tylervipond/use-as-bind) - hook for using [as-bind](https://github.com/torch2424/as-bind) with a WASM source
 - ... and maybe more!
 
 Want to add yours to the list? Submit an [issue](https://github.com/hermanya/create-react-hook/issues/new).
