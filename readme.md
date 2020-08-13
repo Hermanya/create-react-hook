@@ -105,9 +105,10 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-as-bind](https://github.com/tylervipond/use-as-bind) - hook for using [as-bind](https://github.com/torch2424/as-bind) with a WASM source
 - [use-reducer-with-effects](https://github.com/frankiesardo/use-reducer-with-effects)
 - [react-use-hotjar](https://github.com/olavoparno/react-use-hotjar)
+- [react-use-scripts](https://github.com/olavoparno/react-use-scripts)
 - ... and maybe more!
 
-Want to add yours to the list? Submit an Pull Request!
+Want to add yours to the list? Submit a Pull Request!
 
 
 ## License
