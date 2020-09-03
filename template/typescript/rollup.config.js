@@ -26,7 +26,7 @@ export default {
     external(),
     url({ exclude: ['**/*.svg'] }),
     resolve(),
-    typescript({ module: 'CommonJS' }),
+    typescript(),
     commonjs({ extensions: ['.js', '.ts'] })
   ]
 }
