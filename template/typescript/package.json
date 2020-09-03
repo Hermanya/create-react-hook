@@ -9,6 +9,9 @@
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
   "jsnext:main": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=8",
     "npm": ">=5"
