@@ -1,8 +1,8 @@
-import typescript from 'rollup-plugin-typescript2'
-import commonjs from 'rollup-plugin-commonjs'
+import typescript from '@rollup/plugin-typescript'
+import commonjs from '@rollup/plugin-commonjs'
+import resolve from '@rollup/plugin-node-resolve'
 import external from 'rollup-plugin-peer-deps-external'
-import resolve from 'rollup-plugin-node-resolve'
-import url from 'rollup-plugin-url'
+import url from '@rollup/plugin-url'
 
 import pkg from './package.json'
 
@@ -26,15 +26,7 @@ export default {
     external(),
     url({ exclude: ['**/*.svg'] }),
     resolve(),
-    typescript({
-      rollupCommonJSResolveHack: true,
-      clean: true
-    }),
-    commonjs({
-      include: 'node_modules/**',
-      namedExports: {
-        'node_modules/react-is/index.js': ['isValidElementType']
-      }
-    })
+    typescript({ module: 'CommonJS' }),
+    commonjs({ extensions: ['.js', '.ts'] })
   ]
 }
