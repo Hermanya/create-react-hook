@@ -106,6 +106,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [use-reducer-with-effects](https://github.com/frankiesardo/use-reducer-with-effects)
 - [react-use-hotjar](https://github.com/olavoparno/react-use-hotjar)
 - [react-use-scripts](https://github.com/olavoparno/react-use-scripts)
+- [react-use-intersection-observer-hooks](https://github.com/GypsyDangerous/use-intersection-observer)
 - ... and maybe more!
 
 Want to add yours to the list? Submit a Pull Request!
