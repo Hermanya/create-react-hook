@@ -107,6 +107,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [react-use-hotjar](https://github.com/olavoparno/react-use-hotjar)
 - [react-use-scripts](https://github.com/olavoparno/react-use-scripts)
 - [react-use-intersection-observer-hooks](https://github.com/GypsyDangerous/use-intersection-observer)
+- [use-airtable](https://github.com/ignatif/use-airtable)
 - ... and maybe more!
 
 Want to add yours to the list? Submit a Pull Request!
