@@ -109,6 +109,7 @@ Here are some example libraries that have been bootstrapped with `create-react-h
 - [react-use-intersection-observer-hooks](https://github.com/GypsyDangerous/use-intersection-observer)
 - [use-airtable](https://github.com/ignatif/use-airtable)
 - [react-use-presentation](https://github.com/olavoparno/react-use-presentation)
+- [@dannyman/use-store](https://github.com/danny-fallas/use-store-react)
 - ... and maybe more!
 
 Want to add yours to the list? Submit a Pull Request!
